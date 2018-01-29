@@ -4,7 +4,7 @@ GFM is Github Flavored Markdown. It is kind of syntax to write documents with te
 You can highlight text or make hyperlinks with markdown syntax.
 For more information and tutorials, visit [here](https://help.github.com/categories/writing-on-github/).
 ## Practice
-<br>
+
 # The largest heading
 ## The second largest heading
 ##### The smallest heading
@@ -35,7 +35,7 @@ print('Hello')
 Link:
 [naver](http://www.naver.com)
 Relative link:
-[Main README](Today-I-Learned/README.md)
+[Main README](../README.md)
 List:
 - l1
 - l2
@@ -50,12 +50,12 @@ List3:
 3. l3
 Nested list:
 1. Hi
-  1. I
-  2. am
-  3. not a robot.
+     1. I
+     2. am
+     3. not a robot.
 2. Bye
-  1. bye.
+     1. bye.
 Task lists:
-- [x] \done.
+- [x] done.
 - [x] done.
 - [ ] not yet.
