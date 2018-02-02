@@ -2,9 +2,9 @@
 ### One-hot encoding
 One-hot encoding is encoding a decimal number to a vector includes only zero and one(it is different from binary number).<br>
 For example, if we have 0, 1, 2, they can be encoded like this:
-> (1, 0, 0) // 0
-> (0, 1, 0) // 1
-> (0, 0, 1) // 2
+    (1, 0, 0) // 0
+    (0, 1, 0) // 1
+    (0, 0, 1) // 2
 This method is useful for learning neural networks. For supervised learning, we need training data and their targets. For learning,<br>
 The decimal or categorical targets are usually encoded to one-hot vector.
 ### One-hot encoder implemented with Numpy library.
