@@ -5,10 +5,10 @@ For example, if we have 0, 1, 2, they can be encoded like this:<br>
     (1, 0, 0) // 0 <br>
     (0, 1, 0) // 1 <br>
     (0, 0, 1) // 2 <br>
-This method is useful for learning neural networks. For supervised learning, we need training data and their targets. For learning,<br>
-The decimal or categorical targets are usually encoded to one-hot vector.
+This method is useful for learning neural networks. For supervised learning, we need training data and their targets.<br>
+For learning, The decimal or categorical targets are usually encoded to one-hot vector.
 ### One-hot encoder implemented with Numpy library.
-Many deep learning frameworks supports one-hot encoding method, but to understand its principle,<br>
+Many deep learning frameworks support the one-hot encoding method, but to understand its principle,<br>
 I decided to implement one-hot encoder with numpy library.<br>
 I followed **[this link](https://stackoverflow.com/questions/29831489/numpy-1-hot-array)** to study one-hot encoder.<br>
 And I defined a method and gave some comments as follows:
