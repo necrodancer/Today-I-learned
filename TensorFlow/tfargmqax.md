@@ -1,6 +1,6 @@
 # tf.argmax
 ### tf.argmax
-tf.argmax() is a method provided from [Tensorflow](https://github.com/necrodancer/Today-I-learned/new/master/TensorFlow).<br>
+tf.argmax() is a method provided from Tensorflow.<br>
 It returns indices of max value for each axis.<br>
 Actually I don't understand what axis is. So after studying this, this document will be updated.
 ### references
