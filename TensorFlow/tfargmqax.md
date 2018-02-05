@@ -6,6 +6,9 @@ Actually I don't understand what axis is. So after studying this, this document 
 ### references
 [Tensorflow document](https://www.tensorflow.org/api_docs/python/tf/argmax) <br>
 [Koeran explanation](http://pythonkim.tistory.com/73)
+<br>
+<br>
+<br>
 ### Example code
 ```python
 import tensorflow as tf
