@@ -9,3 +9,8 @@ After this work, I am going to try to study [Getting Started with Tensorflow](ht
 ### References
 [Getting Started for ML Beginners](https://www.tensorflow.org/get_started/get_started_for_beginners)<br>
 [Getting Started with Tensorflow](https://www.tensorflow.org/get_started/premade_estimators)<br>
+### Error occured
+Since my tf version is 1.2.0, I think it doesn't fit on this tutorial.<br>
+`premade_estimator.py` is not working. It raised `no module has attribute 'keras'` even though I installed tensorflow and keras both!<br>
+During this week, since my current work, tf version will be remained this week.<br>
+After this week, I might try this document again.<br>
