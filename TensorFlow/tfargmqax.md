@@ -3,6 +3,8 @@
 tf.argmax() is a method provided from Tensorflow.<br>
 It returns indices of max value for each axis.<br>
 Actually I don't understand what axis is. So after studying this, this document will be updated.
+### adding something leanrned newly
+will be added.<br>
 ### references
 [Tensorflow document](https://www.tensorflow.org/api_docs/python/tf/argmax) <br>
 [Koeran explanation](http://pythonkim.tistory.com/73)
