@@ -3,7 +3,7 @@
 tf.argmax() is a method provided from Tensorflow.<br>
 It returns indices of max value for each axis.<br>
 Actually I don't understand what axis is. So after studying this, this document will be updated.
-### adding something leanrned newly
+### Practice
 **[Link](https://github.com/necrodancer/Today-I-learned/blob/master/TensorFlow/tf_argmax_practice.ipynb)**<br>
 I'm sorry that It is written by Korean.<br>
 ### references
