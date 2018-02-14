@@ -15,3 +15,5 @@ centre = 0
 std = 0.01
 value = np.random.normal(centre, std, 1) # It returns single value.
 ```
+# References
+[numpy.random.normal](https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.normal.html)
