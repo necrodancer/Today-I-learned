@@ -1,5 +1,5 @@
-# netsort python library
-netsort is a python package to provide some kinds of sort function.
+# natsort python library
+natsort is a python package to provide some kinds of sort function.
 # Motivation
 Python's built-in `sorted()` sorts array something wrong sometimes.<br>
 For example,
