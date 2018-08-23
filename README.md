@@ -1,9 +1,9 @@
-# Today-I-learned
+# Today-I-Learned
 ## Introduction
 Upload TIL. TIL(Today I learned) is commiting something that I learned new.
 It was inspired from **[JayJin's TIL](https://github.com/milooy/TIL)** and **[thoughtbot til](https://github.com/thoughtbot/til).**
 ## How to commit
->1. A few sentences + example code explaining concepts, sintax, commands, or tips I've learned today.
+>1. A few sentences + example code explaining concepts, sintax, commands, or tips I've learned today. (Use vscode to edit)
 >2. .md file + @(.ipynb file or etc.)
 >3. Do not abuse with no meaning commits.
 >4. The core is to study and program for myself. 
