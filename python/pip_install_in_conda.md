@@ -1,4 +1,4 @@
-# Intallation python packages with pip for the created anaconda environment & ignoring a specific package when using pip install
+# Installation python packages with pip for the created anaconda environment & ignoring a specific package when using pip install
 ## Situation
 I recently decided to create new anaconda2 environment. And I wished to install packages with 'requirements.txt'. <br>
 I prepared 'requirements.txt' from my previous environment with
