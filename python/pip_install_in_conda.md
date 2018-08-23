@@ -1,6 +1,5 @@
 # Intallation python packages with pip for the created anaconda environment & ignoring a specific package when using pip install
 ## Situation
----
 I recently decided to create new anaconda2 environment. And I wished to install packages with 'requirements.txt'. <br>
 I prepared 'requirements.txt' from my previous environment with
 ```
@@ -24,7 +23,6 @@ Cannot uninstall 'certifi'. It is a distutils installed project and thus we cann
 I solved two problems and I'm gonna show my solutions.<br>
 
 ## Solution
----
 ### Intallation python packages with pip for the created anaconda environment [1]
 1. Use `which pip`, and get your environment's pip path : 
 ```
@@ -44,6 +42,5 @@ I solved two problems and I'm gonna show my solutions.<br>
 Once finished, you can check your python package list with  `piplist`.
 
 ## References
----
 \[1\] [Use 'pip install' in the virtual environment created by conda](https://github.com/ContinuumIO/anaconda-issues/issues/1429) <br>
 \[2\] ['Uninstalling a distutils installed project' error when installing blockstack](https://github.com/blockstack/blockstack-core/issues/504)
