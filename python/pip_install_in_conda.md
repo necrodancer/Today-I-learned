@@ -23,7 +23,7 @@ Cannot uninstall 'certifi'. It is a distutils installed project and thus we cann
 I solved two problems and I'm gonna show my solutions.<br>
 
 ## Solution
-### Intallation python packages with pip for the created anaconda environment [1]
+### Installation python packages with pip for the created anaconda environment [1]
 1. Use `which pip`, and get your environment's pip path : 
 ```
 (myenv) username@username-desktop:~$ which pip
