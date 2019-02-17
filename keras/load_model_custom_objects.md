@@ -1,6 +1,6 @@
 # When load_model() says global name 'oo' is not defined
 When you used some kinds of global name during defining model, <br>
-It can cause error like `global name 'oo' is not defined. <br>
+It can cause error like `global name 'oo' is not defined`. <br>
 At that time, you can use `custom_objects={"oo": oo}` argument in the `load_model()`.<br>
 For example,<br>
 ```python
