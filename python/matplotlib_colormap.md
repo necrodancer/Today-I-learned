@@ -6,7 +6,7 @@
 # plt.imshow
 import matplotlib.pyplot as plt
 # ...
-plt.imshow(arr, cmap=plt.._get_cmap(m))
+plt.imshow(arr, cmap=plt.get_cmap(m))
 plt.show()
 ```
 # Reference
