@@ -22,5 +22,5 @@ https://matplotlib.org/tutorials/colors/colormaps.html
 ). You can refer these colormaps <br>
 
 # References
-[Choosing Colormaps in Matplotlib](https://matplotlib.org/tutorials/colors/colormaps.html)
+[Choosing Colormaps in Matplotlib](https://matplotlib.org/tutorials/colors/colormaps.html) <br>
 [Creating Colormaps in Matplotlib](https://matplotlib.org/tutorials/colors/colormap-manipulation.html)
