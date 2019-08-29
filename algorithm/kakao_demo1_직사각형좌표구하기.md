@@ -33,6 +33,19 @@ def solution(v):
     return answer
 ```
 
+If you use XOR operation, your code becomes shorter.
+Cascaded XOR derives an unique value in 3 values.
+
+```python
+def solution(v):
+    answer = []
+    
+    answer.append(v[0][0]^v[1][0]^v[2][0])
+    answer.append(v[0][1]^v[1][1]^v[2][1])
+
+    return answer
+```
+
 # What I learned
 I learned how to use `list.count(value)` to count the number of value in a python list.
 
