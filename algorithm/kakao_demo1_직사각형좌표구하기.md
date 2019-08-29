@@ -18,18 +18,19 @@ Written in Python 3.
 
 ```python
 def solution(v):
-    vx = [e[0] for e in v]
-    vy = [e[1] for e in v]
-    
-    idx = list(set(v[0]+v[1]+v[2]))
-    
     answer = [0, 0]
-    for i in idx:
-        if vx.count(i) == 1:
-            answer[0] = i
-        if vy.count(i) == 1:
-            answer[1] = i
-
+    
+    keys = list(set(v[0]+v[1]+v[2]))
+    
+    vx = [arr[0] for arr in v]
+    vy = [arr[1] for arr in v]
+    
+    for key in keys:
+        if vx.count(key) == 1:
+            answer[0] = key
+        if vy.count(key) == 1:
+            answer[1] = key
+            
     return answer
 ```
 
@@ -53,8 +54,8 @@ And `set()` operation does not allow the nested list e.g. `[[1,2],[2,1]]`. So I 
 
 # Future challenges
 
-- [ ] please write the solution once more. 
-- [ ] Debug it in my head.
+- [x] please write the solution once more. 
+- [x] Debug it in my head.
 - [x] Follow another solution. 
 
 # Reference
