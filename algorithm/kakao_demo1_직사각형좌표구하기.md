@@ -52,9 +52,10 @@ I learned how to use `list.count(value)` to count the number of value in a pytho
 And `set()` operation does not allow the nested list e.g. `[[1,2],[2,1]]`. So I concatenated all of sub-lists and used `set()`.
 
 # Future challenges
-1. [ ] please write the solution once more. 
-2. [ ] Debug it in my head.
-3. [] Follow another solution. 
+
+- [ ] please write the solution once more. 
+- [ ] Debug it in my head.
+- [x] Follow another solution. 
 
 # Reference
 [\[카카오 코딩테스트\]3. 직사각형 좌표 구하기](https://m.blog.naver.com/PostView.nhn?blogId=bsos1202&logNo=221090473029&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
