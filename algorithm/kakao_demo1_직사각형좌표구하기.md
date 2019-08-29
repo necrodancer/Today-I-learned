@@ -59,4 +59,5 @@ And `set()` operation does not allow the nested list e.g. `[[1,2],[2,1]]`. So I 
 - [x] Follow another solution. 
 
 # Reference
-[\[카카오 코딩테스트\]3. 직사각형 좌표 구하기](https://m.blog.naver.com/PostView.nhn?blogId=bsos1202&logNo=221090473029&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+1. [\[카카오 코딩테스트\]3. 직사각형 좌표 구하기](https://m.blog.naver.com/PostView.nhn?blogId=bsos1202&logNo=221090473029&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+2. [23.1	비트 AND, OR, XOR 연산자 사용하기](https://dojang.io/mod/page/view.php?id=173)
