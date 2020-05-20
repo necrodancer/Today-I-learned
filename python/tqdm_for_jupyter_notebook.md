@@ -16,7 +16,8 @@ pbar.close()
 To solve this problem, `tqdm` provides `tqdm_notebook`. <br>
 Just import like this:
 ```python
-from tqdm import tqdm_notebook as tqdm
+from tqdm.notebook import tqdm
+# from tqdm import tqdm_notebook as tqdm  # it will be deprecated.
 ```
 
 # Reference
